@@ -15,7 +15,8 @@ If you have any questions or are seeking a security review for your project, rea
 # Security Engagements
 | №  | Date  | Project |  Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
-| 12 | 01.2026 | [UpShot](https://x.com/upshot_cards) | Vault | 1H | [📑](https://github.com/phage-security/audits/blob/main/2026-02-upshot.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 13 | 04.2026 | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 2M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-04-bounceTech.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
+| 12 | 02.2026 | [UpShot](https://x.com/upshot_cards) | Vault | 1H | [📑](https://github.com/phage-security/audits/blob/main/2026-02-upshot.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 11 | 01.2026 | [Robin Markets](https://x.com/robinmarketsxyz) | PM yield generator | 4H, 2M, 3L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 10 | 01.2026 | [Spiral Stake](https://x.com/0xspiralstake) | Leveraged stable assets | 1H, 4M, 3L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 9  | 12.2025 | [Poly Lend](https://x.com/poly_lend) | PM + lending | 1H, 2M, 4L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |

@@ -28,13 +28,3 @@ If you have any questions or are seeking a security review for your project, rea
 | 3  | 08.2025 | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 4H, 7M, 5L | [📑](https://github.com/phage-security/audits/blob/main/2025-08-Bounce.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 2  | 08.2025 | [Foresight](https://x.com/foresightnow) | prediction market | 3H, 2M, 2L | [📑](https://github.com/phage-security/audits/blob/main/2025-08-foresight.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 1  | 07.2025 | [Hikari](https://x.com/hikari_finance) | UNIv3 positions | 3H, 5M, 4L | private | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
-
----
-
-<div align="center">
-  <a href="https://x.com/0x3b33"><img src="https://cdn.simpleicons.org/x/888888" width="20" alt="X"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/Pyro3b"><img src="https://cdn.simpleicons.org/telegram/888888" width="20" alt="Telegram"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/phage-security"><img src="https://cdn.simpleicons.org/github/888888" width="20" alt="GitHub"/></a>
-</div>

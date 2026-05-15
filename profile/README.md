@@ -15,7 +15,7 @@ If you have any questions or are seeking a security review for your project, rea
 # Security Engagements
 | №  | Date  | Project |  Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
-| 15 | 05.2026 | [Alt Fun](https://x.com/altdotfun) | Token launchpad | 2M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf) | Bonding curve + UNIv2 |
+| 15 | 05.2026 | [Alt Fun](https://x.com/altdotfun) | Bonding curve + UNIv2 | 2M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-05-altFun.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 14 | 04.2026 | [Trepa](https://x.com/trepa_io) | Prediction Market | 2H, 6M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-04-trepa.pdf) | Solana + ts/rs BE |
 | 13 | 04.2026 | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype | 2M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-04-bounceTech.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 12 | 02.2026 | [UpShot](https://x.com/upshot_cards) | Vault | 1H | [📑](https://github.com/phage-security/audits/blob/main/2026-02-upshot.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |

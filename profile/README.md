@@ -15,7 +15,6 @@ If you have any questions or are seeking a security review for your project, rea
 # Security Engagements
 | №  | Date  | Project |  Category | Vulnerabilities | Report | Language |
 |:--|:--|:--|:--|:--|:--|:--|
-| 21 | 09.2026 | Olyx | UNIv2/3 + launchpad | 6H, 10M, 8L | - | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 20 | 08.2026 | [Robin Markets](https://x.com/robinmarketsxyz) | splitting to YES+NO for yield | 1M, 3L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-robinMarkets.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 19 | 08.2026 | Inflow: Protocol X | fee-on-transfer token on PulseChain | 6H, 10M, 8L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-inflow.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
 | 18 | 08.2026 | [Bounce Tech](https://x.com/BounceDotTech) | leveraged token on Hype, referrals | 2M, 7L | [📑](https://github.com/phage-security/audits/blob/main/2026-08-bounceTech.pdf) | ![EVM-Solidity](https://img.shields.io/badge/EVM-Solidity-2b247c?labelColor=627eea) |
